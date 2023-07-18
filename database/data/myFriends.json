@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Thu Khant Aung",
+        "gender": "male",
+        "hobby": {
+            "h1": "game",
+            "h2": "photography"
+        },
+        "age": "22"
+    },
+    {
+        "name": "Arkar Kaung Myat",
+        "gender": "male",
+        "hobby": {
+            "h1": "game",
+            "h2": "coding"
+        },
+        "age": "22"
+    },
+    {
+        "name": "Thuta Swan",
+        "gender": "male",
+        "hobby": {
+            "h1": "working",
+            "h2": "working"
+        },
+        "age": "25"
+    },
+    {
+        "name": "Hlyan Bone Htet",
+        "gender": "male",
+        "hobby": {
+            "h1": "smoke",
+            "h2": "drink"
+        },
+        "age": "23"
+    },
+    {
+        "name": "Aung Kaung Zaw",
+        "gender": "male",
+        "hobby": {
+            "h1": "404 not found",
+            "h2": "Boxing"
+        },
+        "age": "23"
+    },
+    {
+        "name": "Aung Bone Myint",
+        "gender": "male",
+        "hobby": {
+            "h1": "Music",
+            "h2": "Reading"
+        },
+        "age": "21"
+    },
+    {
+        "data": {
+            "name": "Happy-Leo",
+            "age": "23",
+            "hobby": {
+                "h1": "gaming",
+                "h2": "coding"
+            },
+            "gender": "male"
+        }
+    },
+    {
+        "name": "Happy-Leo2",
+        "age": "23",
+        "hobby": {
+            "h1": "gaming",
+            "h2": "coding"
+        },
+        "gender": "male"
+    },
+    {
+        "name": "Kim So Hyun",
+        "age": "27",
+        "hobby": {
+            "h1": "playing piano",
+            "h2": "actress"
+        },
+        "gender": "female"
+    }
+]
